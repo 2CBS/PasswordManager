@@ -232,7 +232,7 @@ const showHelp = () => {
 			commands: [
 				{ command: "help", description: "Show this help menu." },
 				{ command: "clear", description: "Clear the screen." },
-        { command: "credits", description: "Display the authors links." },
+				{ command: "credits", description: "Display the authors links." },
 				{ command: "exit", description: "Exit the password manager." },
 			],
 		},
